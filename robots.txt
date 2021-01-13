@@ -1,0 +1,7 @@
+# This is the default and not needed. I used it for demonstration purposes only.
+User-Agent: *
+Allow: /
+
+
+# Add link to sitemap here:
+Sitemap: [./sitemaps/sitemap.xml]
